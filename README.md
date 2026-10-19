@@ -40,10 +40,10 @@ Financial analysis · Banking & insurance · Statistics
 
 | Project | What it is |
 |---------|------------|
-| [**Hillel-LMS**](https://github.com/mesut101010/Hillel-LMS) | QA portfolio: requirements traceability matrix, 47-case test checklist, and a Postman API test suite |
-| [**crypto-signal-scanner**](https://github.com/mesut101010/crypto-signal-scanner) | Read-only crypto market-data monitor — scans exchange & on-chain APIs, AI-filters signals, sends Telegram alerts (no trading) |
-| [**exchange-latency-analyzer**](https://github.com/mesut101010/exchange-latency-analyzer) | Research tool measuring cross-exchange order-book latency (Binance vs MEXC/LBank) from public data |
-| [**tori-tori-landing**](https://github.com/mesut101010/tori-tori-landing) | Responsive e-commerce landing page, live at [toritoridrop.com](https://toritoridrop.com/) |
+| [**Hillel-LMS**](https://github.com/anton-bryzhchuk/Hillel-LMS) | QA portfolio: requirements traceability matrix, 47-case test checklist, and a Postman API test suite |
+| [**crypto-signal-scanner**](https://github.com/anton-bryzhchuk/crypto-signal-scanner) | Read-only crypto market-data monitor — scans exchange & on-chain APIs, AI-filters signals, sends Telegram alerts (no trading) |
+| [**exchange-latency-analyzer**](https://github.com/anton-bryzhchuk/exchange-latency-analyzer) | Research tool measuring cross-exchange order-book latency (Binance vs MEXC/LBank) from public data |
+| [**tori-tori-landing**](https://github.com/anton-bryzhchuk/tori-tori-landing) | Responsive e-commerce landing page, live at [toritoridrop.com](https://toritoridrop.com/) |
 
 ---
 
